@@ -7,11 +7,11 @@
 
 感谢gank.io的API，感谢开源世界！
 
-—————————————————————————————————————————————————————————————————
+———————————————图1————————————————
 ![image](https://github.com/brucevanfdm/WeChatMeiZhi/raw/master/screenshots/meizhi01.png)
-—————————————————————————————————————————————————————————————————
+———————————————图2————————————————
 ![image](https://github.com/brucevanfdm/WeChatMeiZhi/raw/master/screenshots/meizhi02.png)
-—————————————————————————————————————————————————————————————————
+———————————————图3————————————————
 ![image](https://github.com/brucevanfdm/WeChatMeiZhi/raw/master/screenshots/meizhi03.png)
-—————————————————————————————————————————————————————————————————
+———————————————图4————————————————
 ![image](https://github.com/brucevanfdm/WeChatMeiZhi/raw/master/screenshots/meizhi04.png)
