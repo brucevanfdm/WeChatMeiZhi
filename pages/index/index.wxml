@@ -1,9 +1,5 @@
 <!--index.wxml-->
 <view>
-  
-  <loading hidden="{{hidden}}" >
-    加载中...
-  </loading>
 
   <view class= "card" wx:for = "{{items}}">
   
@@ -13,10 +9,6 @@
     </view>
 
   </view>
-
-  <button hidden="{{loadmorehidden}}" type="primary" class="loadmore" size="default" loading="{{loading}}" plain="{{plain}}" bindtap="loadMore"> 
-  点击加载更多 
-  </button>
 
 </view>
 

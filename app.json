@@ -4,7 +4,7 @@
     "pages/image/image"
   ],
   "window":{
-    "backgroundTextStyle":"light",
+    "backgroundTextStyle":"dark",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "妹纸图",
     "navigationBarTextStyle":"black"
