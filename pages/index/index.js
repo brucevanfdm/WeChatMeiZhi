@@ -33,6 +33,12 @@ Page({
     requestData(that, mCurrentPage + 1);
   },
 
+  onLoad: function () {
+    console.log('onLoad')
+    var that = this
+    requestData(that, mCurrentPage + 1);
+  }
+
 })
 
 /**
